@@ -1,3 +1,4 @@
+-- Active: 1677343443752@@localhost@5432@vef2-verk2-2023@public
 CREATE TABLE public.events (
   id SERIAL PRIMARY KEY,
   name VARCHAR(64) NOT NULL UNIQUE,
